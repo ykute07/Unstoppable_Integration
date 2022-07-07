@@ -31,6 +31,12 @@ the frontend was built using NextJS to support a faster and easier development w
 https://precious-crumble-f2a5cb.netlify.app/
 
 
+![Homepage](Screenshot/Homepage.png)
+![Meta](Screenshot/Meta.png)
+![Music](Screenshot/Music.png)
+![Signature](Screenshot/Signature_img.png)
+![Unstoppable_Home](Screenshot/Unstoppable_Home.png)
+![Unstoppable_meta](Screenshot/Unstoppable_meta.png)
 
 
 ## Inspiration
