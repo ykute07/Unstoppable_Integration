@@ -1,3 +1,38 @@
+## Problem
+Artists should have ownership of their music and be able to freely trade their ownership of their music.
+Listeners should be able to listen to high-quality music and be able to directly support their favorite artists.
+Today Web2 Apps own all user data
+
+## Solution
+Artists can upload their music as an NFT which gives them ownership of their music
+which then can be freely traded on any NFT marketplace
+They can also attach royalties to their music so that when ownership of the song is traded between owners, they get a portion of the revenue
+music is also uploaded as lossless .wav files thanks to IPFS and Filecoin providing a safe and easy way to store large files.
+
+## LOGIN WITH UNSTOPPABLE
+Login to different apps and websites with just your Unstoppable domain and say goodbye to user accounts and passwords.
+This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
+the frontend was built using NextJS to support a faster and easier development workflow. The backend was  built using NEAR protocol .The login integration is done by unstopabble domains
+
+## code for login unstopable domain
+1) Recreate the front-end in Svelte Kit while working out bugs and modifying the UI making it more compatible and responsive for all kinds of devices.
+
+2) Add new features to the smart contract for tracking song plays/interactions to better display songs on the main page of the application.
+
+3) Perhaps include a decentralized advertising ecosystem (not sure about this one)
+
+4) Update the front-end to allow querying pages for individual artists/songs.
+
+5) Create a marketplace contract where users can buy/sell and trade their music.
+
+6) Deploy everything to the mainnet! 
+
+## Link to app
+https://precious-crumble-f2a5cb.netlify.app/
+
+
+
+
 ## Inspiration
 For a long time, I wanted to work on some kind of blockchain application, but I didn't really have the experience or time to make it happen. Then one day I was browsing through Reddit and saw an advertisement for the NEAR Metabuild hackathon and decided to take a look. Sure enough, there was a "Welcome Track" that would be perfect for me to submit to. I'm really glad I decided to join the hackathon because I learned a lot about the blockchain world and NEAR protocol itself!
 
@@ -156,16 +191,16 @@ Here's a little roadmap of what I have planned.
 6) Deploy everything to the mainnet! 
 
 Thanks! I hope you enjoyed my project. -Anthony . 
-#   U n s t o p p a b l e 
- 
- #   U n s t o p p a b l e 
- 
- #   U n s t o p p a b l e 
- 
- #   U n s t o p p a b l e 
- 
- #   U n s t o p p a b l e 
- 
- #   t r i a l l s 
- 
- 
+#� �U�n�s�t�o�p�p�a�b�l�e�
+�
+�#� �U�n�s�t�o�p�p�a�b�l�e�
+�
+�#� �U�n�s�t�o�p�p�a�b�l�e�
+�
+�#� �U�n�s�t�o�p�p�a�b�l�e�
+�
+�#� �U�n�s�t�o�p�p�a�b�l�e�
+�
+�#� �t�r�i�a�l�l�s�
+�
+�
