@@ -155,11 +155,17 @@ Here's a little roadmap of what I have planned.
 
 6) Deploy everything to the mainnet! 
 
-Thanks! I hope you enjoyed my project. -Anthony
-#   U n s t o p p a b l e  
- #   U n s t o p p a b l e  
- #   U n s t o p p a b l e  
- #   U n s t o p p a b l e  
- #   U n s t o p p a b l e  
- #   t r i a l l s  
+Thanks! I hope you enjoyed my project. -Anthony . 
+#   U n s t o p p a b l e 
+ 
+ #   U n s t o p p a b l e 
+ 
+ #   U n s t o p p a b l e 
+ 
+ #   U n s t o p p a b l e 
+ 
+ #   U n s t o p p a b l e 
+ 
+ #   t r i a l l s 
+ 
  
