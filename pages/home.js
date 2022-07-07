@@ -20,8 +20,8 @@ export default function Home() {
     
     const uauth = new UAuth(
       {
-        clientID: "fc8af0b9-3722-4c5c-9621-27db0e4d0bc1",
-        redirectUri:   "https://precious-crumble-f2a5cb.netlify.app/",
+        clientID: "<Enter your client id>",
+        redirectUri: <Enter your direct url>",
         scope: "openid wallet email:optional humanity_check:optional"
       })
       
