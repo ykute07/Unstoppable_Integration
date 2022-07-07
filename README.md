@@ -38,6 +38,33 @@ https://precious-crumble-f2a5cb.netlify.app/
 ![Unstoppable_Home](Screenshot/Unstoppable_Home.png)
 ![Unstoppable_meta](Screenshot/Unstoppable_meta.png)
 
+### [/context/NearProvider.js](https://github.com/ykute07/Unstoppable_Integration/blob/master/pages/home.js)
+~~~js
+const uauth = new UAuth(
+      {
+        clientID: "<Enter your client id>",
+        redirectUri: <Enter your direct url>",
+        scope: "openid wallet email:optional humanity_check:optional"
+      })
+~~~
+
+### [/context/NearProvider.js](https://github.com/ykute07/Unstoppable_Integration/blob/master/pages/home.js)
+~~~js
+const handleLogin = async() => {
+      setLoading(true)
+      await uauth
+        .loginWithPopup()
+        .then(() => uauth.user().then(setUser))
+        .catch((e)=>{console.log(e)})
+        .finally(() => {setRedirect(false)})
+        if(user){
+          setRedirect(false);
+          router.push("/")
+        }
+    }
+~~~
+
+
 
 ## Inspiration
 For a long time, I wanted to work on some kind of blockchain application, but I didn't really have the experience or time to make it happen. Then one day I was browsing through Reddit and saw an advertisement for the NEAR Metabuild hackathon and decided to take a look. Sure enough, there was a "Welcome Track" that would be perfect for me to submit to. I'm really glad I decided to join the hackathon because I learned a lot about the blockchain world and NEAR protocol itself!
