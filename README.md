@@ -1,35 +1,37 @@
 ## Problem
 Artists should have ownership of their music and be able to freely trade their ownership of their music.
+
 Listeners should be able to listen to high-quality music and be able to directly support their favorite artists.
+
 Today Web2 Apps own all user data
+
 
 ## Solution
 Artists can upload their music as an NFT which gives them ownership of their music
-which then can be freely traded on any NFT marketplace
+
+Which then can be freely traded on any NFT marketplace
+
 They can also attach royalties to their music so that when ownership of the song is traded between owners, they get a portion of the revenue
-music is also uploaded as lossless .wav files thanks to IPFS and Filecoin providing a safe and easy way to store large files.
 
-## LOGIN WITH UNSTOPPABLE
-Login to different apps and websites with just your Unstoppable domain and say goodbye to user accounts and passwords.
+Music is also uploaded as lossless .wav files thanks to IPFS and Filecoin providing a safe and easy way to store large files.
+
 This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
-the frontend was built using NextJS to support a faster and easier development workflow. The backend was  built using NEAR protocol .The login integration is done by unstopabble domains
 
-## code for login unstopable domain
-1) Recreate the front-end in Svelte Kit while working out bugs and modifying the UI making it more compatible and responsive for all kinds of devices.
+## Why Login With Integrated  Unstoppable Domain
+Login to different apps and websites with just your Unstoppable domain and say goodbye to user accounts and passwords.
 
-2) Add new features to the smart contract for tracking song plays/interactions to better display songs on the main page of the application.
+Unstoppable Domain allows you to create a blockchain-connected email address similar to a URL — such as Samplename. crypto or Samplename. zil for example — that translates a cryptocurrency wallet's addresses into a far simpler human-readable name that connects with decentralized apps (dApps) and exchanges.
 
-3) Perhaps include a decentralized advertising ecosystem (not sure about this one)
+##How It's Built
+There are two parts to the applications. The frontend was built using [NextJS](https://nextjs.org/) to support a faster and easier development workflow.  The backend was obviously built using [NEAR protocol](https://near.org/) and I did not require any 3rd party backend.
 
-4) Update the front-end to allow querying pages for individual artists/songs.
+The frontend was built using NextJS to support a faster and easier development workflow. The backend was  built using NEAR protocol .The login integration is done by unstopabble domains
 
-5) Create a marketplace contract where users can buy/sell and trade their music.
-
-6) Deploy everything to the mainnet! 
 
 ## Link to app
 https://precious-crumble-f2a5cb.netlify.app/
 
+## Code For Login Unstopable Domain
 
 ![Homepage](Screenshot/Homepage.png)
 ![Meta](Screenshot/Meta.png)
