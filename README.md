@@ -3,7 +3,9 @@ Artists should have ownership of their music and be able to freely trade their o
 
 Listeners should be able to listen to high-quality music and be able to directly support their favorite artists.
 
-Today Web2 Apps own all user data
+Today Web2 Apps are highly centralized they own the data of the user , User don’t have control on their data 
+
+Many Website today faces challenges of Fake Login and Bot login
 
 
 ## Solution
@@ -17,14 +19,15 @@ Music is also uploaded as lossless .wav files thanks to IPFS and Filecoin provid
 
 This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
 
-Integrated it with Unstoppable Domain so the user have control on the data , user can use scope to give access to website and enabled with Humanity Check so that BOT can't be entertained 
+Integrated with Unstoppable Domain enable with scope so the user have to share the information which is required and it is Enabled with Humanity Check so there is no Fake and Bot Login 
 
 ![Homepage](Screenshot/Homepage.png)
 
 ## Why Login With Integrated  Unstoppable Domain
 Unstoppable Domain web3 Login is one the most viable web3 login available in the market. Web2 Login in the market faces many challenges the app and companies hold the data of the user . these data can be traded with 3rd party , the user don't have control on the data and many web2 faces challenges due to bot login
 
-On the other hand Unstoppable Domain web3Login is 3rd generation login that has evolved to solve this issue.
+On the other hand Unstoppable Domain web3Login is 3rd generation login that has evolved to solve this issue . Unstoppable Domain create human readable address user owned digital identity which can be used in web3login domains and crypto address all integrated to one
+
 
 ![Meta](Screenshot/Meta.png)
 
