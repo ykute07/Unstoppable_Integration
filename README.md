@@ -17,12 +17,14 @@ Music is also uploaded as lossless .wav files thanks to IPFS and Filecoin provid
 
 This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
 
+Integrated it with Unstoppable Domain so the user have control on the data , user can use scope to give access to website and enabled with Humanity Check so that BOT can't be entertained 
+
 ![Homepage](Screenshot/Homepage.png)
 
 ## Why Login With Integrated  Unstoppable Domain
-Login to different apps and websites with just your Unstoppable domain and say goodbye to user accounts and passwords.
+Unstoppable Domain web3 Login is one the most viable web3 login available in the market. Web2 Login in the market faces many challenges the app and companies hold the data of the user . these data can be traded with 3rd party , the user don't have control on the data and many web2 faces challenges due to bot login
 
-Unstoppable Domain allows you to create a blockchain-connected email address similar to a URL — such as Samplename. crypto or Samplename. zil for example — that translates a cryptocurrency wallet's addresses into a far simpler human-readable name that connects with decentralized apps (dApps) and exchanges.
+On the other hand Unstoppable Domain web3Login is 3rd generation login that has evolved to solve this issue.
 
 ![Meta](Screenshot/Meta.png)
 
